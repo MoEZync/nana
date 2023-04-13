@@ -1,0 +1,3 @@
+wget https://archive.org/download/github.com-open-deepnude-open-deepnude_-_2019-07-01_05-35-45/open-deepnude-open-deepnude_-_2019-07-01_05-35-45.bundle
+
+git clone open-deepnude-open-deepnude_-_2019-07-01_05-35-45.bundle 
